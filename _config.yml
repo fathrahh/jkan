@@ -8,8 +8,8 @@ logo: /img/jkan.png
 jkan_theme: Default
 
 # Authentication
-github_client_id: 
-gatekeeper_host: 
+github_client_id: 5cc5b70bdb5b7c58463b
+gatekeeper_host: https://pso-test.herokuapp.com/
 
 # Dataset schema
 schema: default
